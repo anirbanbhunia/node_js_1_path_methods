@@ -1,0 +1,21 @@
+{
+  "name": "my_project",
+  "version": "1.0.1",
+  "description": "this is my project which is handle nodejs dependecies",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "anirban",
+    "bhunia"
+  ],
+  "author": "anirban bhunia",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "react-script": "^2.0.5"
+  }
+}
